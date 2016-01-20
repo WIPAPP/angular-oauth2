@@ -2,7 +2,7 @@
   "name": "angular-oauth2",
   "version": "1.1.0",
   "authors": [
-    "Simon Rönnberg <simon.ronnberg@codemill.se>"
+    "Simon Rönnberg <simon.ronnberg@codemill.se>", "Jimmi Corbishley <jimmi@wipster.io>"
   ],
   "description": "Oauth2 module for AngularJS",
   "main": "index.js",
